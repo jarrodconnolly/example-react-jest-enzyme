@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Simple ToDo Component should render correctly 1`] = `
+<div>
+  <h2>
+    ToDo
+  </h2>
+  <ul>
+    <li
+      key="0"
+    >
+      Unit Test Item 1
+       - 
+      ✓
+    </li>
+    <li
+      key="1"
+    >
+      Unit Test Item 2
+       - 
+      ✗
+    </li>
+    <li
+      key="2"
+    >
+      Unit Test Item 3
+       - 
+      ✗
+    </li>
+    <li
+      key="3"
+    >
+      Unit Test Item 4
+       - 
+      ✓
+    </li>
+  </ul>
+</div>
+`;

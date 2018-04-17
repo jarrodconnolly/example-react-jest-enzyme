@@ -1,0 +1,11 @@
+# Dependencies
+**/node_modules
+
+# WebStorm Project
+**/.idea
+
+# Parcel Cache
+.cache
+
+# Release
+dist/
